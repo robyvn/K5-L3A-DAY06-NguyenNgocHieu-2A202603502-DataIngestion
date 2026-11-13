@@ -1,0 +1,1246 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Phạm vi điều chỉnh của Luật Đường bộ số 35/2024/QH15 bao gồm những nội dung gì?",
+    "expected_answer": "Hoạt động đường bộ và quản lý nhà nước về hoạt động đường bộ.",
+    "gold_page": 1,
+    "evidence_quote": "Luật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động đường bộ.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p1_struct_000",
+        "page": 1,
+        "score": 0.8725,
+        "is_hit": true,
+        "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 1567,
+          "chunk_index": 0,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p67_struct_003",
+        "page": 67,
+        "score": 0.8365,
+        "is_hit": false,
+        "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+        "metadata": {
+          "chapter": "Chương Vi",
+          "is_empty": false,
+          "char_count": 1933,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p67_struct_002",
+        "page": 67,
+        "score": 0.8176,
+        "is_hit": false,
+        "text": "1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+        "metadata": {
+          "chapter": "Chương Vi",
+          "is_empty": false,
+          "char_count": 1933,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo Luật Đường bộ 2024, kết cấu hạ tầng đường bộ bao gồm những thành phần nào?",
+    "expected_answer": "Công trình đường bộ; bến xe; bãi đỗ xe; trạm dừng nghỉ; điểm dừng xe, đỗ xe; trạm thu phí và các công trình khác của đường bộ.",
+    "gold_page": 1,
+    "evidence_quote": "Kết cấu hạ tầng đường bộ bao gồm: công trình đường bộ; bến xe; bãi đỗ xe; trạm dừng nghỉ; điểm dừng xe, đỗ xe;",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p1_struct_002",
+        "page": 1,
+        "score": 0.8139,
+        "is_hit": true,
+        "text": "Kết cấu hạ tầng đường bộ bao gồm: công trình đường bộ; bến xe; bãi đỗ xe; trạm dừng nghỉ; điểm dừng xe, đỗ xe; đất của đường bộ; hành lang an toàn đường \nbộ và các công trình phụ trợ phục vụ cho hoạt động đường bộ. 5. Hành lang an toàn đường bộ là dải đất dọc hai bên đất của đường bộ, tính từ \nmép ngoài phần đất để bảo vệ, bảo trì đường bộ ra hai bên để bảo đảm an toàn giao",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 1567,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p3_struct_004",
+        "page": 3,
+        "score": 0.8113,
+        "is_hit": false,
+        "text": "Quy hoạch kết cấu hạ tầng đường bộ được quy định như sau: \na) Quy hoạch kết cấu hạ tầng đường bộ là quy hoạch có tính chất kỹ thuật, \nchuyên ngành, cụ thể hóa quy hoạch mạng lưới đường bộ, xác định phương án \nphát triển công trình đường bộ và kết cấu hạ tầng đường bộ khác theo từng tuyến \nđường bộ; b) Quy hoạch kết cấu hạ tầng đường bộ bao gồm các nội dung chủ yếu sau \nđây: xác định hướng tuyến cơ bản, các điểm khống chế chính, chiều dài, quy mô \ntuyến đường bộ qua từng địa phương, từng vùng; xác định sơ bộ quy mô của cầu, \nhầm, bến phà trên tuyến đường bộ; xác định các điểm giao cắt chính; phương án \nkết nối đường bộ với các phương thức vận tải khác, kết nối với hệ thống đô thị, \nkhu kinh tế, khu công nghiệp; xác định nhu cầu sử dụng đất, nhu cầu vốn đầu tư, lộ \ntrình thực hiện quy hoạch;",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2443,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p1_struct_000",
+        "page": 1,
+        "score": 0.811,
+        "is_hit": false,
+        "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 1567,
+          "chunk_index": 0,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Chính sách phát triển của Nhà nước đối với kết cấu hạ tầng giao thông đường bộ ưu tiên những dự án nào?",
+    "expected_answer": "Ưu tiên phát triển các tuyến đường cao tốc, các công trình, dự án đường bộ trọng điểm kết nối vùng, khu vực, đô thị lớn.",
+    "gold_page": 2,
+    "evidence_quote": "Ưu tiên phát triển các tuyến đường cao tốc, các công trình, dự án đường bộ trọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế;",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p2_struct_003",
+        "page": 2,
+        "score": 0.832,
+        "is_hit": true,
+        "text": "Điều 4. Chính sách phát triển đối với hoạt động đường bộ \n1. Chính sách phát triển kết cấu hạ tầng đường bộ bao gồm: \na) Tập trung các nguồn lực phát triển kết cấu hạ tầng đường bộ hiện đại, thích \nứng với biến đổi khí hậu, thân thiện với môi trường; kết nối đồng bộ các tuyến \nđường bộ, các phương thức vận tải khác với vận tải đường bộ; \nb) Xây dựng cơ chế đẩy mạnh huy động các nguồn lực xã hội, đa dạng các \nhình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì kết \ncấu hạ tầng đường bộ; \nc) Ưu tiên phát triển các tuyến đường cao tốc, các công trình, dự án đường bộ \ntrọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế; kết \ncấu hạ tầng đường bộ vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, biên giới;",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2287,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p42_struct_002",
+        "page": 42,
+        "score": 0.8148,
+        "is_hit": false,
+        "text": "Điều 46. Chính sách phát triển đường cao tốc \nChính sách phát triển đường cao tốc thực hiện theo quy định tại Điều 4 của \nLuật này và các quy định sau đây: \n 1. Nhà nước khuyến khích tổ chức, cá nhân sử dụng các nguồn lực tham gia \nđầu tư, xây dựng, vận hành, khai thác và bảo trì công trình đường cao tốc theo \nphương thức đối tác công tư và hình thức khác theo quy định của pháp luật; 2. Bảo đảm ưu tiên bố trí ngân sách nhà nước để đầu tư, xây dựng các dự án có \nyêu cầu bảo đảm quốc phòng, an ninh; dự án đi qua địa bàn có điều kiện kinh tế - \nxã hội khó khăn, điều kiện kinh tế - xã hội đặc biệt khó khăn; dự án kết nối tạo \nđộng lực phát triển kinh tế - xã hội và dự án khác không thu hút được nguồn vốn \nngoài ngân sách; 3.",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2186,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p3_struct_001",
+        "page": 3,
+        "score": 0.8116,
+        "is_hit": false,
+        "text": "kết cấu hạ tầng đường bộ dễ tiếp cận và bảo đảm an toàn cho các đối tượng dễ bị \ntổn thương; kết cấu hạ tầng đường bộ tại các đô thị để giảm ùn tắc giao thông; các \ntuyến đường tuần tra biên giới, đường ven biển để phục vụ mục tiêu kết hợp phát \ntriển kinh tế - xã hội với bảo đảm quốc phòng, an ninh. 2. Phát triển hợp lý các loại hình kinh doanh vận tải; tạo môi trường cạnh \ntranh lành mạnh giữa các loại hình kinh doanh vận tải bằng xe ô tô ; phát triển giao \nthông thông minh; ưu tiên phát triển vận tải hành khách công cộng bằng xe buýt và \ncác phương tiện vận tải khác. 3. Khuyến khích, tạo điều kiện cho tổ chức, cá nhân Việt Nam và nước ngoài \nđầu tư, kinh doanh khai thác kết cấu hạ tầng đường bộ và hoạt động vận tải đường \nbộ;",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2443,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Hành vi nào đối với kết cấu hạ tầng đường bộ bị nghiêm cấm tại khoản 1 Điều 7?",
+    "expected_answer": "Phá hoại kết cấu hạ tầng đường bộ; khai thác, sử dụng kết cấu hạ tầng đường bộ trái quy định của pháp luật.",
+    "gold_page": 5,
+    "evidence_quote": "Phá hoại kết cấu hạ tầng đường bộ; khai thác, sử dụng kết cấu hạ tầng đường bộ trái quy định của pháp luật.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_001",
+        "page": 5,
+        "score": 0.8667,
+        "is_hit": true,
+        "text": "Điều 7. Các hành vi bị nghiêm cấm \n1. Phá hoại kết cấu hạ tầng đường bộ; khai thác, sử dụng kết cấu hạ tầng \nđường bộ trái quy định của pháp luật. 2. Đấu nối trái phép vào đường chính, đường nhánh; tháo dỡ, di chuyển trái \nphép hoặc làm sai lệch công trình đường bộ. 3. Lấn, chiếm, sử dụng, xây dựng trái phép trong phạm vi bảo vệ kết cấu hạ \ntầng đường bộ. 4. Lắp đặt, tháo dỡ, di chuyển, điều chỉnh, che khuất báo hiệu đường bộ trái quy \nđịnh của pháp luật; gắn, treo, lắp vào báo hiệu đường bộ nội dung không liên quan \ntới ý nghĩa, mục đích của báo hiệu đường bộ hoặc làm sai lệch báo hiệu đường bộ. 5. Kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ mà \nkhông có giấy phép kinh doanh vận tải theo quy định của pháp luật hoặc kinh \ndoanh không đúng giấy phép. 6.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p16_struct_004",
+        "page": 16,
+        "score": 0.8412,
+        "is_hit": false,
+        "text": "Công trình quy định tại khoản 1 Điều này khi xây dựng, lắp đặt trong phạm vi \nbảo vệ kết cấu hạ tầng đường bộ phải bảo đảm quy chuẩn, tiêu chuẩn kỹ thuật, an",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2149,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p17_struct_003",
+        "page": 17,
+        "score": 0.8341,
+        "is_hit": false,
+        "text": "b) Công trình ảnh hưởng đến an toàn giao thông đường bộ, an toàn công trình \nđường bộ mà không có biện pháp khắc phục; c) Công trình xây dựng trái phép. 7. Chính phủ quy định chi tiết Điều này.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2108,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Đường bộ theo cấp quản lý bao gồm những loại đường nào?",
+    "expected_answer": "Quốc lộ, đường tỉnh, đường huyện, đường xã, đường thôn, đường đô thị, đường chuyên dùng.",
+    "gold_page": 5,
+    "evidence_quote": "Đường bộ theo cấp quản lý bao gồm: quốc lộ, đường tỉnh, đường huyện, đường xã, đường thôn, đường đô thị, đường chuyên dùng",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_004",
+        "page": 5,
+        "score": 0.8257,
+        "is_hit": true,
+        "text": "Điều 8. Phân loại đường bộ theo cấp quản lý \n1. Đường bộ theo cấp quản lý bao gồm: quốc lộ, đường tỉnh, đường huyện, \nđường xã, đường thôn, đường đô thị, đường chuyên dùng và được xác định như sau: \na) Quốc lộ là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền các trung tâm hành chính cấp tỉnh; đường có vị trí quan trọng đối \nvới sự phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh của vùng, khu vực; b) Đường tỉnh là đường nằm trong địa bàn một tỉnh nối trung tâm hành chính \ncủa tỉnh với trung tâm hành chính của huyện; đường có vị trí quan trọng đối với sự \nphát triển kinh tế - xã hội của tỉnh; c) Đường huyện là đường nối trung tâm hành chính của huyện với trung tâm \nhành chính của xã, cụm xã hoặc trung tâm hành chính của huyện lân cận;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_003",
+        "page": 5,
+        "score": 0.8014,
+        "is_hit": false,
+        "text": "Chương II \nKẾT CẤU HẠ TẦNG ĐƯỜNG BỘ\n\nMục 1 \nPHÂN LOẠI, ĐẶT TÊN, SỐ HIỆU ĐƯỜNG BỘ",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p6_struct_004",
+        "page": 6,
+        "score": 0.7888,
+        "is_hit": false,
+        "text": "Điều 9. Phân loại đường bộ theo chức năng phục vụ \n1. Đường chính là đường phục vụ giao thông chủ yếu trong khu vực, kết nối \ngiao thông các khu vực, vùng.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2348,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Quốc lộ theo định nghĩa của Luật Đường bộ là tuyến đường có vai trò kết nối như thế nào?",
+    "expected_answer": "Đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh hoặc nối các trung tâm hành chính cấp tỉnh.",
+    "gold_page": 5,
+    "evidence_quote": "Quốc lộ là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền các trung tâm hành chính cấp tỉnh",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hit_ranks": [
+      3
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p6_struct_003",
+        "page": 6,
+        "score": 0.8074,
+        "is_hit": false,
+        "text": "tuyến, đoạn tuyến quốc lộ được Thủ \ntướng Chính phủ giao trên cơ sở đề nghị của Ủy ban nhân dân cấp tỉnh để đáp ứng \nnhu cầu phát triển kinh tế - xã hội, bảo đảm lợi ích quốc gia, quốc phòng, an ninh, \nkhả năng bố trí nguồn lực của địa phương; tuyến, đoạn tuyến quốc lộ đã được điều \nchuyển tài sản về Ủy ban nhân dân cấp tỉnh quản lý theo quy định của pháp luật về \nquản lý, sử dụng tài sản công; b) Quy định việc quản lý đường đô thị, đường huyện, đường xã, đường thôn; c) Quản lý đường gom, đường bên tách khỏi quốc lộ. 5. N gười quản lý, sử dụng đường bộ đối với đường chuyên dùng có trách \nnhiệm quản lý đường chuyên dùng theo quy định của Luật này và quy định khác \ncủa pháp luật có liên quan. 6. Chính phủ quy định chi tiết Điều này.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2348,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p3_struct_003",
+        "page": 3,
+        "score": 0.7957,
+        "is_hit": false,
+        "text": "Điều 5. Quy hoạch mạng lưới đường bộ, quy hoạch kết cấu hạ tầng đường bộ \n1. Quy hoạch mạng lưới đường bộ được quy định như sau: \na) Quy hoạch mạng lưới đường bộ là quy hoạch ngành quốc gia, xác định \nphương hướng phát triển, tổ chức không gian hệ thống quốc lộ làm cơ sở để định \nhướng lập quy hoạch kết cấu hạ tầng đường bộ, phát triển mạng lưới đường bộ; b) Việc lập, thẩm định, phê duyệt, điều chỉnh quy hoạch mạng lưới đường bộ \nphải tuân thủ quy định của pháp luật về quy hoạch và bảo đảm kết nối phương thức \nvận tải đường bộ với các phương thức vận tải khác; c) Bộ Giao thông vận tải tổ chức lập quy hoạch mạng lưới đường bộ trình Thủ \ntướng Chính phủ phê duyệt. 2.",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2443,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_004",
+        "page": 5,
+        "score": 0.7922,
+        "is_hit": true,
+        "text": "Điều 8. Phân loại đường bộ theo cấp quản lý \n1. Đường bộ theo cấp quản lý bao gồm: quốc lộ, đường tỉnh, đường huyện, \nđường xã, đường thôn, đường đô thị, đường chuyên dùng và được xác định như sau: \na) Quốc lộ là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền các trung tâm hành chính cấp tỉnh; đường có vị trí quan trọng đối \nvới sự phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh của vùng, khu vực; b) Đường tỉnh là đường nằm trong địa bàn một tỉnh nối trung tâm hành chính \ncủa tỉnh với trung tâm hành chính của huyện; đường có vị trí quan trọng đối với sự \nphát triển kinh tế - xã hội của tỉnh; c) Đường huyện là đường nối trung tâm hành chính của huyện với trung tâm \nhành chính của xã, cụm xã hoặc trung tâm hành chính của huyện lân cận;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Tên đường bộ được đặt theo các căn cứ và nguyên tắc nào?",
+    "expected_answer": "Đặt theo tên danh nhân, người có công với đất nước; di tích, sự kiện lịch sử, văn hóa; tên địa danh hoặc theo tập quán.",
+    "gold_page": 8,
+    "evidence_quote": "Tên đường bộ được đặt theo tên danh nhân, người có công với đất nước; di tích, sự kiện lịch sử, văn hóa; tên địa danh hoặc tên theo tập quán.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p8_struct_001",
+        "page": 8,
+        "score": 0.832,
+        "is_hit": true,
+        "text": "Điều 11. Đặt tên, đổi tên, số hiệu đường bộ \n1. Việc đặt tên, số hiệu đường bộ được quy định như sau: \na) Tên đường bộ được đặt theo tên danh nhân, người có công với đất nước; di \ntích, sự kiện lịch sử, văn hóa; tên địa danh hoặc tên theo tập quán. Số hiệu đường \nbộ được đặt theo số tự nhiên hoặc số tự nhiên kèm theo chữ cái nếu cần thiết. Trường hợp đường đô thị trùng với đường khác thì sử dụng cả tên đường đô thị và \ntên, số hiệu của đường khác; b) Tên, số hiệu đường bộ tham gia vào mạng lưới đường bộ quốc tế thực hiện \ntheo điều ước quốc tế giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam với các quốc \ngia, tổ chức quốc tế có liên quan. Đường bộ kết nối vào mạng lưới đường bộ quốc tế \nthì sử dụng cả tên, số hiệu đường bộ trong nước và tên, số hiệu đường bộ quốc tế. 2.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2166,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p8_struct_002",
+        "page": 8,
+        "score": 0.7994,
+        "is_hit": false,
+        "text": "Trường hợp có tuyến, đoạn tuyến đường bộ đi trùng nhau thì sử dụng tên, số \nhiệu đường bộ thuộc cấp quản lý cao hơn, trừ trường hợp quy định tại điểm a \nkhoản 1 Điều này. 3. Không bắt buộc đặt tên, số hiệu đường bộ đối với đường xã, đường thôn, \nđường nội bộ, đường chuyên dùng; không bắt buộc đổi tên, số hiệu đường bộ trong \ntrường hợp đường đó đi qua địa bàn được cấp có thẩm quyền quyết định giải thể, \nnhập, chia, điều chỉnh địa giới hành chính của địa phương. 4. Chính phủ quy định chi tiết Điều này.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2166,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_003",
+        "page": 5,
+        "score": 0.795,
+        "is_hit": false,
+        "text": "Chương II \nKẾT CẤU HẠ TẦNG ĐƯỜNG BỘ\n\nMục 1 \nPHÂN LOẠI, ĐẶT TÊN, SỐ HIỆU ĐƯỜNG BỘ",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Biển quảng cáo trong phạm vi bảo vệ kết cấu hạ tầng đường bộ gồm những loại hình nào?",
+    "expected_answer": "Bảng quảng cáo, băng rôn, biển hiệu, hộp đèn, màn hình chuyên quảng cáo theo quy định của pháp luật về quảng cáo.",
+    "gold_page": 15,
+    "evidence_quote": "Biển quảng cáo gồm bảng quảng cáo, băng rôn, biển hiệu, hộp đèn, màn hình chuyên quảng cáo theo quy định của pháp luật về quảng cáo.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p15_struct_003",
+        "page": 15,
+        "score": 0.84,
+        "is_hit": true,
+        "text": "Điều 18. Xây dựng, lắp đặt biển quảng cáo, biển thông tin cổ động, tuyên \ntruyền chính trị trong phạm vi bảo vệ kết cấu hạ tầng đường bộ \n1. Biển quảng cáo gồm bảng quảng cáo, băng rôn, biển hiệu, hộp đèn, màn \nhình chuyên quảng cáo theo quy định của pháp luật về quảng cáo. Biển quảng cáo \nđược xây dựng, lắp đặt tại các vị trí sau đây: \na) Trong phạm vi hành lang an toàn đường bộ, trừ hành lang an toàn đường \ncao tốc và hành lang an toàn đường bộ tại nút giao; b) Trường hợp nút giao có đường kính lớn hơn 02 lần chiều rộng hành lang an \ntoàn đường bộ, thì được xây dựng, lắp đặt biển quảng cáo trong phạm vi đất giữa \nnút giao nhưng phải bảo đảm khoảng cách từ biển quảng cáo đến mép ngoài mặt \nđường theo các hướng không nhỏ hơn chiều rộng hành lang an toàn đường bộ. 2.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2387,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p15_struct_004",
+        "page": 15,
+        "score": 0.8037,
+        "is_hit": false,
+        "text": "Việc xây dựng, lắp đặt biển quảng cáo phải đáp ứng các yêu cầu sau đây: \na) Không được che khuất báo hiệu đường bộ ; không ảnh hưởng đến tầm nhìn \ncủa người điều khiển phương tiện tham gia giao thông đường bộ; b) Không ảnh hưởng đến việc quản lý, khai thác, sử dụng và bảo trì đường bộ, \nkhông ảnh hưởng đến an toàn công trình hạ tầng trong phạm vi bảo vệ kết cấu hạ \ntầng đường bộ, an toàn giao thông đường bộ;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2387,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p19_struct_002",
+        "page": 19,
+        "score": 0.7988,
+        "is_hit": false,
+        "text": "b) Ủy ban nhân dân các cấp tổ chức thực hiện bảo vệ kết cấu hạ tầng đường bộ \nthuộc phạm vi quản lý; phối hợp với người quản lý, sử dụng đường bộ để tuyên \ntruyền, phổ biến pháp luật về bảo vệ kết cấu hạ tầng đường bộ; công bố công khai \nmốc lộ giới sử dụng đất trong hành lang an toàn đường bộ; kịp thời xử lý trường \nhợp lấn, chiếm, sử dụng trái phép hành lang an toàn đường bộ, đất của đường bộ; c) Người quản lý, sử dụng đường bộ có trách nhiệm bảo vệ kết cấu hạ tầng \nđường bộ thuộc phạm vi quản lý; trường hợp phát hiện công trình bị hư hỏng, nguy \ncơ gây ra sự cố công trình, nguy cơ mất an toàn giao thông đường bộ thì phải xử \nlý, sửa chữa, khắc phục kịp thời;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2504,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tốc độ thiết kế của đường bộ có ý nghĩa gì trong công tác xây dựng đường?",
+    "expected_answer": "Là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ.",
+    "gold_page": 25,
+    "evidence_quote": "Tốc độ thiết kế của đường bộ là giá trị vận tốc được dùng để tính toán các chỉ tiêu kỹ thuật của đường bộ.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p25_struct_003",
+        "page": 25,
+        "score": 0.8353,
+        "is_hit": true,
+        "text": "Điều 26. Tốc độ thiết kế, tốc độ khai thác và khoảng cách giữa các xe \n1. Tốc độ thiết kế của đường bộ là giá trị vận tốc được dùng để tính toán các \nchỉ tiêu kỹ thuật của đường bộ. Tốc độ thiết kế của đường bộ được xác định trong \ngiai đoạn đầu tư xây dựng, nâng cấp, cải tạo đường bộ nhằm bảo đảm cho phương \ntiện di chuyển an toàn. 2. Tốc độ khai thác trên đường bộ được quy định như sau: \na) Tốc độ khai thác trên đường bộ là giá trị giới hạn tốc độ (tốc độ tối đa, tốc \nđộ tối thiểu) cho phép phương tiện tham gia giao thông đường bộ bảo đảm an toàn \ngiao thông và khai thác hiệu quả tuyến đường;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2402,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p25_struct_004",
+        "page": 25,
+        "score": 0.8012,
+        "is_hit": false,
+        "text": "b) Tốc độ khai thác trên đường bộ được xác định trên cơ sở tốc độ thiết kế, \nhiện trạng của tuyến đường, thời gian lưu thông trong ngày, điều kiện thời tiết, khí \nhậu, lưu lượng, chủng loại phương tiện tham gia giao thông đường bộ trên đường; c) Đối với đường đôi, giá trị giới hạn tốc độ cho từng chiều đường có thể khác nhau;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2402,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p26_struct_001",
+        "page": 26,
+        "score": 0.7688,
+        "is_hit": false,
+        "text": "d) Trên cùng một chiều đường có nhiều làn đường, giá trị giới hạn tốc độ của \ncác làn đường có thể khác nhau. Làn đường phải bảo đảm yêu cầu về mục đích sử \ndụng, bề rộng để lưu thông thông suốt, an toàn. 3. Khoảng cách giữa các xe trên đường bộ là cự ly tối thiểu giữa các phương \ntiện tham gia giao thông đường bộ liền nhau trên cùng làn đường, phần đường; bảo \nđảm an toàn của phương tiện chạy sau với phương tiện chạy trước. Khoảng cách giữa các xe phụ thuộc vào tốc độ khai thác của tuyến đường, thời \ntiết, mật độ phương tiện và điều kiện giao thông thực tế khác. 4. Đường cao tốc trước khi đưa vào khai thác phải bố trí đầy đủ hệ thống báo \nhiệu tốc độ, khoảng cách giữa các xe;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2232,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Khái niệm khoảng cách giữa các xe trên đường bộ được định nghĩa ra sao?",
+    "expected_answer": "Là cự ly tối thiểu giữa các phương tiện tham gia giao thông liền nhau trên cùng làn đường để bảo đảm dừng xe an toàn.",
+    "gold_page": 26,
+    "evidence_quote": "Khoảng cách giữa các xe trên đường bộ là cự ly tối thiểu giữa các phương tiện tham gia giao thông đường bộ liền nhau trên cùng làn đường, phần đường;",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p26_struct_001",
+        "page": 26,
+        "score": 0.8202,
+        "is_hit": true,
+        "text": "d) Trên cùng một chiều đường có nhiều làn đường, giá trị giới hạn tốc độ của \ncác làn đường có thể khác nhau. Làn đường phải bảo đảm yêu cầu về mục đích sử \ndụng, bề rộng để lưu thông thông suốt, an toàn. 3. Khoảng cách giữa các xe trên đường bộ là cự ly tối thiểu giữa các phương \ntiện tham gia giao thông đường bộ liền nhau trên cùng làn đường, phần đường; bảo \nđảm an toàn của phương tiện chạy sau với phương tiện chạy trước. Khoảng cách giữa các xe phụ thuộc vào tốc độ khai thác của tuyến đường, thời \ntiết, mật độ phương tiện và điều kiện giao thông thực tế khác. 4. Đường cao tốc trước khi đưa vào khai thác phải bố trí đầy đủ hệ thống báo \nhiệu tốc độ, khoảng cách giữa các xe;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2232,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p25_struct_003",
+        "page": 25,
+        "score": 0.7678,
+        "is_hit": false,
+        "text": "Điều 26. Tốc độ thiết kế, tốc độ khai thác và khoảng cách giữa các xe \n1. Tốc độ thiết kế của đường bộ là giá trị vận tốc được dùng để tính toán các \nchỉ tiêu kỹ thuật của đường bộ. Tốc độ thiết kế của đường bộ được xác định trong \ngiai đoạn đầu tư xây dựng, nâng cấp, cải tạo đường bộ nhằm bảo đảm cho phương \ntiện di chuyển an toàn. 2. Tốc độ khai thác trên đường bộ được quy định như sau: \na) Tốc độ khai thác trên đường bộ là giá trị giới hạn tốc độ (tốc độ tối đa, tốc \nđộ tối thiểu) cho phép phương tiện tham gia giao thông đường bộ bảo đảm an toàn \ngiao thông và khai thác hiệu quả tuyến đường;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2402,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p11_struct_003",
+        "page": 11,
+        "score": 0.7669,
+        "is_hit": false,
+        "text": "Điều 15. Hành lang an toàn đường bộ \n1. Chiều rộng hành lang an toàn đường bộ được xác định theo nguyên tắc sau đây: \na) Đối với đường ngoài đô thị, xác định từ mép ngoài phần đất để bảo vệ, bảo \ntrì đường bộ, theo quy mô, cấp kỹ thuật của đường ; trường hợp đường hiện hữu \nchưa xác định cấp kỹ thuật, thì căn cứ chiều rộng mặt đường và tiêu chuẩn thiết kế \nđường để xác định cấp kỹ thuật tương ứng làm căn cứ xác định chiều rộng hành \nlang an toàn đường bộ; b) Đối với đường đô thị, xác định từ mép ngoài phần đất để bảo vệ, bảo trì \nđường đô thị đến chỉ giới đường đỏ nhưng không lớn hơn chiều rộng hành lang \ncủa đường ngoài đô thị cùng cấp; c) Đối với cầu, bến phà, cầu phao đường bộ, xác định theo chiều dọc, chiều \nngang công trình và phụ thuộc cấp sông, quy mô công trình;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2270,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Nguồn thu từ kết cấu hạ tầng đường bộ nộp ngân sách nhà nước bao gồm những khoản phí nào?",
+    "expected_answer": "Phí sử dụng đường bộ thu qua đầu phương tiện đối với xe ô tô và phí sử dụng đường cao tốc.",
+    "gold_page": 41,
+    "evidence_quote": "Phí sử dụng đường bộ thu qua đầu phương tiện đối với xe ô tô; b) Phí sử dụng đường cao tốc thu đối với phương tiện lưu thông trên tuyến đường cao tốc do Nhà nước đầu tư, sở hữu, quản lý và khai thác;",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p41_struct_001",
+        "page": 41,
+        "score": 0.8624,
+        "is_hit": true,
+        "text": "2. Nguồn thu từ kết cấu hạ tầng đường bộ nộp ngân sách nhà nước bao gồm: \na) Phí sử dụng đường bộ thu qua đầu phương tiện đối với xe ô tô; \nb) Phí sử dụng đường cao tốc thu đối với phương tiện lưu thông trên tuyến \nđường cao tốc do Nhà nước đầu tư, sở hữu, quản lý và khai thác; \nc) Nguồn thu của Nhà nước liên quan đến khai thác, sử dụng kết cấu hạ tầng \nđường bộ, nguồn thu từ khai thác, sử dụng công trình hạ tầng kỹ thuật sử dụng \nchung với đường bộ và các nguồn thu hợp pháp khác theo quy định của pháp luật. \n3. Nguồn thu từ dịch vụ sử dụng đường bộ của các dự án đầu tư , xây dựng \nđường bộ để kinh doanh; hợp đồng nhượng quyền kinh doanh - quản lý, khai thác \nđường bộ cao tốc là tài sản công được thực hiện theo quy định của pháp luật về giá \nvà quy định khác của pháp luật có liên quan.",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 1999,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p40_struct_003",
+        "page": 40,
+        "score": 0.846,
+        "is_hit": false,
+        "text": "Đối với kết cấu hạ tầng đường bộ do Nhà nước đầu tư đã được bàn giao, đưa \nvào khai thác nhưng chưa hoàn thành vi ệc giao qu ản lý tài s ản k ết c ấu hạ t ầng \nđường bộ thì chi phí quy đ ịnh tại khoả n 1 Điề u này đư ợc b ố trí từ nguồn chi \nthường xuyên của ngân sách nhà nước. 6. Người quản lý, sử dụng đường bộ đối với đường chuyên dùng phải bảo đảm \nkinh phí quản lý, vận hành, khai thác, bảo trì và bảo vệ đường chuyên dùng.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2418,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p40_struct_002",
+        "page": 40,
+        "score": 0.8281,
+        "is_hit": false,
+        "text": "Đối với kết cấu hạ tầng đường bộ là tài sản công trong thời hạn cho thuê \nquyền khai thác tài sản, chuyển nhượng quyền thu phí sử dụng tài sản, chuyển \nnhượng có thời hạn quyền khai thác tài sản hoặc phương thức chuyển giao quyền \nkhai thác khác, chi phí quy định tại khoản 1 Điều này thực hiện theo hợp đồng đã \nký kết và quy định của pháp luật có liên quan. 4. Đối với các trường hợp quy định tại khoản 8 Điều 37 của Luật này thì chi \nphí quy định tại khoản 1 Điều này được sử dụng trong tổng mức đầu tư của dự án \nđể chủ đầu tư tổ chức thực hiện. 5.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2418,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Trong phạm vi chính sách phát triển đường cao tốc tại Chương III, Nhà nước khuyến khích điều gì?",
+    "expected_answer": "Nhà nước khuyến khích tổ chức, cá nhân sử dụng các nguồn lực tham gia đầu tư, xây dựng, vận hành, khai thác và bảo trì công trình đường cao tốc.",
+    "gold_page": 42,
+    "evidence_quote": "Nhà nước khuyến khích tổ chức, cá nhân sử dụng các nguồn lực tham gia đầu tư, xây dựng, vận hành, khai thác và bảo trì công trình đường cao tốc",
+    "filter": {
+      "chapter": "Chương III"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p42_struct_002",
+        "page": 42,
+        "score": 0.8386,
+        "is_hit": true,
+        "text": "Điều 46. Chính sách phát triển đường cao tốc \nChính sách phát triển đường cao tốc thực hiện theo quy định tại Điều 4 của \nLuật này và các quy định sau đây: \n 1. Nhà nước khuyến khích tổ chức, cá nhân sử dụng các nguồn lực tham gia \nđầu tư, xây dựng, vận hành, khai thác và bảo trì công trình đường cao tốc theo \nphương thức đối tác công tư và hình thức khác theo quy định của pháp luật; 2. Bảo đảm ưu tiên bố trí ngân sách nhà nước để đầu tư, xây dựng các dự án có \nyêu cầu bảo đảm quốc phòng, an ninh; dự án đi qua địa bàn có điều kiện kinh tế - \nxã hội khó khăn, điều kiện kinh tế - xã hội đặc biệt khó khăn; dự án kết nối tạo \nđộng lực phát triển kinh tế - xã hội và dự án khác không thu hút được nguồn vốn \nngoài ngân sách; 3.",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2186,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p2_struct_003",
+        "page": 2,
+        "score": 0.8355,
+        "is_hit": false,
+        "text": "Điều 4. Chính sách phát triển đối với hoạt động đường bộ \n1. Chính sách phát triển kết cấu hạ tầng đường bộ bao gồm: \na) Tập trung các nguồn lực phát triển kết cấu hạ tầng đường bộ hiện đại, thích \nứng với biến đổi khí hậu, thân thiện với môi trường; kết nối đồng bộ các tuyến \nđường bộ, các phương thức vận tải khác với vận tải đường bộ; \nb) Xây dựng cơ chế đẩy mạnh huy động các nguồn lực xã hội, đa dạng các \nhình thức, phương thức đầu tư, xây dựng, quản lý, vận hành, khai thác, bảo trì kết \ncấu hạ tầng đường bộ; \nc) Ưu tiên phát triển các tuyến đường cao tốc, các công trình, dự án đường bộ \ntrọng điểm kết nối vùng, khu vực, đô thị lớn, trung tâm trong nước và quốc tế; kết \ncấu hạ tầng đường bộ vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, biên giới;",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2287,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p43_struct_002",
+        "page": 43,
+        "score": 0.8015,
+        "is_hit": false,
+        "text": "Căn cứ nhu cầu vận tải, khả năng nguồn lực đầu tư và quy hoạch, cấp quyết \nđịnh chủ trương đầu tư quyết định việc phân kỳ đầu tư , xác định việc bồi thường, \nhỗ trợ và tái định cư theo quy mô làn xe quy hoạch hoặc tiến độ dự án được xác \nđịnh trong quyết định chủ trương đầu tư. 4. Việc đầu tư đường cao tốc qua đô thị phải phù hợp với quy hoạch đô thị và \nquy định của pháp luật có liên quan ; có giải pháp phù hợp để phát triển không \ngian, kết nối giao thông khu vực hai bên đường, bảo đảm môi trường. 5.",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2004,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo quy định tại Chương III, đối tượng phương tiện nào phải nộp phí sử dụng đường cao tốc do Nhà nước quản lý?",
+    "expected_answer": "Phương tiện lưu thông trên đường cao tốc thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và trực tiếp quản lý, khai thác.",
+    "gold_page": 45,
+    "evidence_quote": "thu phí sử dụng đường cao tốc đối với phương tiện lưu thông trên đường cao tốc thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và trực tiếp quản lý, khai thác",
+    "filter": {
+      "chapter": "Chương III"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p45_struct_003",
+        "page": 45,
+        "score": 0.8778,
+        "is_hit": true,
+        "text": "Điều 50. Phí sử dụng đường cao tốc \n1. Nhà nước thu phí sử dụng đường cao tốc đối với phương tiện lưu thông trên \nđường cao tốc thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và trực tiếp \nquản lý, khai thác, bao gồm: \na) Đường cao tốc do Nhà nước đầu tư theo hình thức đầu tư công; b) Đường cao tốc được đầu tư theo các hình thức khác khi kết thúc hợp đồng, \nchuyển giao cho Nhà nước. 2. Quản lý, sử dụng các nguồn thu từ phí sử dụng đường cao tốc được quy định \nnhư sau: \na) Cơ quan quản lý đường bộ tổ chức khai thác tài sản nộp số phí thu được vào \nngân sách nhà nước theo quy định của pháp luật về phí và lệ phí; b) Tổ chức nhận nhượng quyền thu phí, nhượng quyền kinh doanh - quản lý \nnộp số tiền nhận nhượng quyền vào ngân sách nhà nước;",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2230,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p41_struct_002",
+        "page": 41,
+        "score": 0.8539,
+        "is_hit": false,
+        "text": "Điều 43. Thanh toán điện tử giao thông đường bộ \n1. Thanh toán điện tử giao thông đường bộ là việc thanh toán các loại phí, giá, \ntiền dịch vụ liên quan đến hoạt động giao thông của phương tiện giao thông đường \nbộ thông qua tài khoản giao thông. \n2. Tài khoản giao thông là tài khoản mở cho chủ phương tiện giao thông \nđường bộ và kết nối với phương tiện thanh toán hợp pháp để thực hiện thanh toán \nkhông dùng tiền mặt theo quy định của pháp luật về ngân hàng. \n3. Thanh toán tiền sử dụng đường bộ trên đường cao tốc phải thực hiện theo \nhình thức điện tử không dừng. \n4. Chính phủ quy định chi tiết Điều này.\n\nChương III \nĐƯỜNG BỘ CAO TỐC",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 1999,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p50_struct_001",
+        "page": 50,
+        "score": 0.8491,
+        "is_hit": false,
+        "text": "Điều 55. Chi phí quản lý, vận hành, khai thác, bảo trì và bảo vệ đường cao tốc \nChi phí quản lý, vận hành, khai thác, bảo trì và bảo vệ đường cao tốc thực hiện \ntheo quy định tại Điều 41 của Luật này và các quy định sau đây: \n1. Đối với đường cao tốc do Nhà nước quản lý, khai thác thì chi phí quản lý, \nvận hành, khai thác, bảo trì và bảo vệ được bảo đảm từ ngân sách nhà nước; \n2. Đối với đường cao t ốc được đầu tư theo phương thứ c đối tác công tư, chi \nphí quản lý, vậ n hành, khai thác , bảo trì và b ảo vệ thực hiện theo quy đ ịnh của \npháp luật về đầu tư theo phương thức đối tác công tư.\n\nChương IV \nVẬN TẢI ĐƯỜNG BỘ",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2054,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Kinh doanh vận tải hành khách theo hợp đồng được quy định bằng hình thức văn bản nào?",
+    "expected_answer": "Theo hợp đồng vận tải bằng văn bản giữa đơn vị kinh doanh vận tải hành khách với người thuê vận tải, bao gồm cả thuê người lái xe.",
+    "gold_page": 52,
+    "evidence_quote": "Kinh doanh vận tải hành khách theo hợp đồng là loại hình kinh doanh vận tải hành khách sử dụng xe ô tô chở người để vận tải hành khách theo hợp đồng vận tải bằng văn bản giữa đơn vị kinh doanh vận tải hành khách với người thuê vận tải, bao gồm cả thuê người lái xe.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p52_struct_001",
+        "page": 52,
+        "score": 0.8254,
+        "is_hit": true,
+        "text": "10. Kinh doanh vận tải hành khách theo hợp đồng là loại hình kinh doanh vận \ntải hành khách sử dụng xe ô tô chở người để vận tải hành khách theo hợp đồng vận \ntải bằng văn bản giữa đơn vị kinh doanh vận tải hành khách với người thuê vận tải, \nbao gồm cả thuê người lái xe. Trường hợp đơn vị kinh doanh vận tải sử dụng xe ô tô chở người từ 08 chỗ trở \nlên (không kể chỗ của người lái xe) phải có hợp đồng vận tải bằng văn bản giữa \nđơn vị kinh doanh vận tải hành khách với người thuê vận tải thuê cả chuyến xe, \nbao gồm cả người lái xe. 11. Kinh doanh vận tải hàng hóa bằng xe ô tô là loại hình kinh doanh vận tải \nsử dụng xe ô tô chở hàng, xe ô tô chuyên dùng để vận tải hàng hóa trên đường bộ. 12.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2188,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p51_struct_002",
+        "page": 51,
+        "score": 0.8046,
+        "is_hit": false,
+        "text": "Kinh doanh vận tải hành khách bằng xe ô tô gồm: kinh doanh vận tải hành \nkhách theo tuyến cố định, kinh doanh vận tải hành khách công cộng bằng xe buýt, \nkinh doanh vận tải hành khách bằng xe taxi, kinh doanh vận tải hành khách theo hợp \nđồng và loại hình kinh doanh vận tải hành khách mới theo quy định của Chính phủ. 7. Kinh doanh vận tải hành khách theo tuyến cố định là loại hình kinh doanh \nvận tải hành khách sử dụng xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của \nngười lái xe) để vận tải hành khách, có xác định bến xe khách nơi đi, bến xe khách \nnơi đến với lịch trình, hành trình xác định. 8.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2522,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p63_struct_001",
+        "page": 63,
+        "score": 0.7961,
+        "is_hit": false,
+        "text": "Điều 75. Dịch vụ đại lý bán vé \n1. Đơn vị kinh doanh dịch vụ đại lý bán vé được thành lập theo quy định của \npháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Đơn vị kinh doanh dịch vụ đại lý bán vé phải có hợp đồng đại lý bán vé với \nđơn vị kinh doanh vận tải hành khách bằng xe buýt, đơn vị kinh doanh vận tải theo \ntuyến cố định. \n3. Đơn vị kinh doanh vận tải và đơn vị kinh doanh dịch vụ đại lý bán vé không \nđược tổ chức đón, trả khách tại địa điểm đặt đại lý bán vé, trừ trường hợp đại lý \nbán vé được đặt tại bến xe khách.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 1973,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Đơn vị kinh doanh vận tải hành khách bằng xe ô tô có nghĩa vụ tuân thủ những cam kết nào?",
+    "expected_answer": "Chấp hành đầy đủ quy định về kinh doanh, điều kiện kinh doanh, cam kết về chất lượng vận tải và hợp đồng vận tải.",
+    "gold_page": 54,
+    "evidence_quote": "Chấp hành và thực hiện đầy đủ quy định về kinh doanh, điều kiện kinh doanh vận tải bằng xe ô tô, cam kết về chất lượng vận tải, hợp đồng vận tải;",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hit_ranks": [
+      2
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p53_struct_004",
+        "page": 53,
+        "score": 0.8502,
+        "is_hit": false,
+        "text": "Điều 58. Quyền và nghĩa vụ của đơn vị kinh doanh vận tải hành khách \nbằng xe ô tô \n1. Đơn vị kinh doanh vận tải hành khách bằng xe ô tô có các quyền sau đây: \na) Thu tiền vận tải; \nb) Từ chối vận tải hành khách có hành vi gây rối trật tự công cộng trên xe ô tô, \ncản trở hoạt động của đơn vị kinh doanh vận tải hành khách bằng xe ô tô, ảnh \nhưởng đến tính mạng, sức khoẻ, tài sản của người khác, gian lận vé;",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2150,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p54_struct_001",
+        "page": 54,
+        "score": 0.8461,
+        "is_hit": true,
+        "text": "c) Quyết định các chính sách ưu đãi để phục vụ khách hàng và mở rộng thị \ntrường kinh doanh. 2. Đơn vị kinh doanh vận tải hành khách bằng xe ô tô có các nghĩa vụ sau đây: \na) Chấp hành và thực hiện đầy đủ quy định về kinh doanh, điều kiện kinh \ndoanh vận tải bằng xe ô tô, cam kết về chất lượng vận tải, hợp đồng vận tải; b) Mua bảo hiểm cho hành khách; phí bảo hiểm được tính vào giá vé, giá trị \nhợp đồng vận tải; c) Thực hiện kê khai giá theo quy định của pháp luật về giá; cung cấp vé, \nchứng từ thu tiền vận tải; d) Bồi thường thiệt hại do người lao động , người đại diện của đơn vị kinh \ndoanh vận tải hành khách bằng xe ô tô gây ra trong quá trình vận tải theo quy định \ncủa pháp luật;",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 1964,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p52_struct_004",
+        "page": 52,
+        "score": 0.846,
+        "is_hit": false,
+        "text": "Điều 57. Vận tải hành khách bằng xe ô tô \n1. Đơn vị kinh doanh vận tải hành khách bằng xe ô tô có trách nhiệm sau đây:",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2188,
+          "chunk_index": 4,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Theo Điều 3 Luật Đường bộ, hoạt động đường bộ phải bảo đảm các mục tiêu an toàn và kết nối nào?",
+    "expected_answer": "Bảo đảm giao thông thông suốt, an toàn, kết nối đồng bộ, hiệu quả, thân thiện với môi trường, phục vụ nhu cầu vận tải và đi lại.",
+    "gold_page": 2,
+    "evidence_quote": "Bảo đảm giao thông thông suốt, an toàn, kết nối đồng bộ, hiệu quả, thân thiện với môi trường, phục vụ nhu cầu vận tải hàng hóa và đi lại thuận tiện của người dân, góp phần phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và bảo vệ môi trường",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p2_struct_001",
+        "page": 2,
+        "score": 0.8602,
+        "is_hit": true,
+        "text": "Điều 3. Nguyên tắc hoạt động đường bộ \n1. Bảo đảm giao thông thông suốt, an toàn, kết nối đồng bộ, hiệu quả, thân \nthiện với môi trường, phục vụ nhu cầu vận tải hàng hóa và đi lại thuận tiện của \nngười dân, góp phần phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và \nbảo vệ môi trường, phòng, chống thiên tai, hội nhập quốc tế. 2. Phát triển đường bộ theo quy hoạch; sử dụng hiệu quả các nguồn lực; kết \nnối phương thức vận tải đường bộ với các phương thức vận tải khác; tăng cường \nứng dụng khoa học, công nghệ tiên tiến, bảo đảm văn minh, hiện đại và đồng bộ. 3. Thực hiện thống nhất trên cơ sở phân công, phân cấp trách nhiệm, quyền \nhạn cụ thể, đồng thời có sự phối hợp chặt chẽ giữa các Bộ, ngành và chính quyền \nđịa phương các cấp. 4.",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 2287,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p19_struct_002",
+        "page": 19,
+        "score": 0.8282,
+        "is_hit": false,
+        "text": "b) Ủy ban nhân dân các cấp tổ chức thực hiện bảo vệ kết cấu hạ tầng đường bộ \nthuộc phạm vi quản lý; phối hợp với người quản lý, sử dụng đường bộ để tuyên \ntruyền, phổ biến pháp luật về bảo vệ kết cấu hạ tầng đường bộ; công bố công khai \nmốc lộ giới sử dụng đất trong hành lang an toàn đường bộ; kịp thời xử lý trường \nhợp lấn, chiếm, sử dụng trái phép hành lang an toàn đường bộ, đất của đường bộ; c) Người quản lý, sử dụng đường bộ có trách nhiệm bảo vệ kết cấu hạ tầng \nđường bộ thuộc phạm vi quản lý; trường hợp phát hiện công trình bị hư hỏng, nguy \ncơ gây ra sự cố công trình, nguy cơ mất an toàn giao thông đường bộ thì phải xử \nlý, sửa chữa, khắc phục kịp thời;",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2504,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p30_struct_001",
+        "page": 30,
+        "score": 0.8257,
+        "is_hit": false,
+        "text": "3. Việc kết nối đường nhánh vào đường chính và giữa các tuyến đường với \nnhau, được thực hiện tại vị trí đấu nối và phải bảo đảm các yêu cầu sau đây: \n a) Vị trí đấu nối được thiết kế, xây dựng tuân thủ quy chuẩn, tiêu chuẩn kỹ \nthuật; phù hợp với cấp đường và bảo đảm an toàn giao thông, năng lực thông hành \ncủa tuyến đường; b) Trường hợp đấu nối đường khác với đường cao tốc, ngoài việc thực hiện \nquy định tại điểm a và điểm c khoản này, khoảng cách giữa các vị trí đấu nối phải \ntuân thủ quy chuẩn, tiêu chuẩn kỹ thuật về thiết kế đường cao tốc; c) Việc kết nối giao thông đường bộ thực hiện theo quy định của Chính phủ. 4.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2540,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Đơn vị vận tải hàng hóa có quyền từ chối vận chuyển những loại hàng hóa nào theo quy định pháp luật?",
+    "expected_answer": "Hàng hóa không có giấy phép lưu hành theo quy định, hàng cấm lưu thông hoặc không có giấy vận tải.",
+    "gold_page": 57,
+    "evidence_quote": "giấy phép lưu hành theo quy định của pháp luật; hàng hóa cấm lưu thông theo quy định của pháp luật; không có giấy vận tải;",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hit_ranks": [],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p57_struct_001",
+        "page": 57,
+        "score": 0.8245,
+        "is_hit": false,
+        "text": "2. Đơn vị kinh doanh vận tải hàng hóa bằng xe ô tô có nghĩa vụ sau đây: \na) Không được để tổ chức, cá nhân không có giấy phép kinh doanh vận tải \nbằng xe ô tô loại hình vận tải hàng hóa thay mình thực hiện điều hành phương tiện \nvà lái xe hoặc quyết định giá cước để vận tải hàng hóa; b) Không được sử dụng người không có giấy phép lái xe hoặc có giấy phép lái \nxe nhưng không phù hợp với loại xe, người có giấy phép lái xe bị trừ hết điểm, \nngười đang bị tước hoặc bị thu hồi giấy phép lái xe để điều khiển phương tiện vận \ntải hàng hóa; c) Cung cấp phương tiện đúng loại, thời gian, địa điểm và giao hàng hóa cho \nngười nhận hàng theo thỏa thuận trong hợp đồng; cấp giấy vận tải cho lái xe trước \nkhi thực hiện vận tải;",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2257,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p58_struct_002",
+        "page": 58,
+        "score": 0.8123,
+        "is_hit": false,
+        "text": "giao hàng hóa cho người kinh doanh vận \ntải đúng thời gian, địa điểm và nội dung khác theo thỏa thuận; b) Không được yêu cầu hoặc xếp hàng hóa vượt quá khối lượng hàng hóa \nchuyên chở cho phép tham gia giao thông, vượt quá tải trọng, khổ giới hạn của \nđường bộ hoặc quá kích thước giới hạn cho phép xếp hàng của xe, trừ trường hợp \ncó giấy phép lưu hành theo quy định của pháp luật; c) Thanh toán đủ tiền cước và chi phí phát sinh cho người kinh doanh vận tải \nhàng hóa; d) Cử người áp tải hàng hóa trong quá trình vận tải đối với loại hàng hóa bắt \nbuộc phải có người áp tải.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2033,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p63_struct_000",
+        "page": 63,
+        "score": 0.7977,
+        "is_hit": false,
+        "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 1973,
+          "chunk_index": 0,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Chương III, việc tạm dừng khai thác đường cao tốc là trường hợp như thế nào?",
+    "expected_answer": "Là trường hợp tạm không cho phương tiện tham gia giao thông trên một chiều, hai chiều, một đoạn hoặc cả tuyến đường cao tốc (trừ phương tiện ưu tiên làm nhiệm vụ).",
+    "gold_page": 46,
+    "evidence_quote": "Tạm dừng khai thác đường cao tốc là trường hợp tạm không cho phương tiện tham gia giao thông đường bộ trên một chiều, hai chiều, một đoạn hoặc cả tuyến đường cao tốc,",
+    "filter": {
+      "chapter": "Chương III"
+    },
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p46_struct_001",
+        "page": 46,
+        "score": 0.8613,
+        "is_hit": true,
+        "text": "Điều 51. Tạm dừng khai thác đường cao tốc \n1. Tạm dừng khai thác đường cao tốc là trường hợp tạm không cho phương \ntiện tham gia giao thông đường bộ trên một chiều, hai chiều, một đoạn hoặc cả \ntuyến đường cao tốc, trừ phương tiện làm nhiệm vụ của lực lượng Quân đội nhân \ndân, Công an nhân dân, phương tiện thực hiện nhiệm vụ phòng cháy, chữa cháy, \ncứu nạn, cứu hộ, cứu thương, hộ đê, khắc phục sự cố, bảo đảm an toàn giao thông \nđường bộ. 2. Các trường hợp đường cao tốc phải tạm dừng khai thác bao gồm: \na) Công trình bị hư hỏng do xảy ra sự cố công trình, do hậu quả của thiên tai \nkhông thể khai thác, sử dụng an toàn; b) Khi xảy ra sự cố cháy, nổ, tai nạn giao thông đặc biệt nghiêm trọng buộc \nphải tạm dừng khai thác để phục vụ cứu nạn, cứu hộ và bảo đảm an toàn giao \nthông đường bộ;",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2186,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p46_struct_003",
+        "page": 46,
+        "score": 0.8077,
+        "is_hit": false,
+        "text": "d) Thông báo cho Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an \ntoàn giao thông trên tuyến, cơ quan quản lý đường bộ, trung tâm quản lý, điều \nhành giao thông tuyến đường cao tốc, chính quyền địa phương. 4. Khi tạm dừng khai thác đường cao tốc phải thực hiện các công việc sau đây: \na) Người quản lý, sử dụng đường cao tốc phải khẩn trương thực hiện các biện \npháp bảo đảm giao thông để hạn chế ùn tắc giao thông; điều chỉnh, bổ sung các công \ntrình báo hiệu đường bộ và các công trình khác phục vụ bảo đảm giao thông; tham",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2186,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p46_struct_002",
+        "page": 46,
+        "score": 0.8042,
+        "is_hit": false,
+        "text": "c) Khi có yêu cầu phục vụ quốc phòng, an ninh hoặc các trường hợp đặc biệt \nkhác theo yêu cầu của cơ quan nhà nước có thẩm quyền. 3. Khi phát hiện nguy cơ mất an toàn, nguy cơ xảy ra sự cố công trình đường \ncao tốc ảnh hưởng đến an toàn cho người, phương tiện giao thông, tài sản khác thì \nngười quản lý, sử dụng đường cao tốc có trách nhiệm sau đây: \na) Kịp thời dừng sử dụng đường cao tốc, trong thời hạn không quá 60 phút kể \ntừ thời điểm dừng phải thông báo cho người có thẩm quyền về nguyên nhân phải \ntạm dừng và chịu trách nhiệm về quyết định của mình; b) Thực hiện các biện pháp để bảo đảm an toàn cho người, phương tiện giao \nthông, tài sản khác; hạn chế và ngăn ngừa các nguy hiểm có thể xảy ra đối với \ncông trình; c) Bảo vệ hiện trường; tham gia cứu nạn, cứu hộ, giải quyết ùn tắc giao thông;",
+        "metadata": {
+          "chapter": "Chương Iii",
+          "is_empty": false,
+          "char_count": 2186,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Tờ khai gửi hàng hoá trong hoạt động hàng hóa ký gửi được lập thành mấy bản và người nhận hàng cần xuất trình gì?",
+    "expected_answer": "Lập thành 02 bản (mỗi bên giữ một bản) và người nhận phải xuất trình giấy tờ tùy thân khi nhận hàng.",
+    "gold_page": 60,
+    "evidence_quote": "Tờ khai gửi hàng hoá được lập thành 02 bản, mỗi bên giữ một bản. 5. Người nhận hàng hoá ký gửi phải xuất trình giấy tờ tuỳ thân khi nhận hàng.",
+    "filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hit_ranks": [
+      1
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p60_struct_001",
+        "page": 60,
+        "score": 0.8349,
+        "is_hit": true,
+        "text": "4. Đơn vị kinh doanh vận tải có trách nhiệm kiểm tra hàng hoá ký gửi theo tờ \nkhai gửi hàng hoá và xác nhận vào tờ khai gửi hàng hoá. Tờ khai gửi hàng hoá \nđược lập thành 02 bản, mỗi bên giữ một bản. 5. Người nhận hàng hoá ký gửi phải xuất trình giấy tờ tuỳ thân khi nhận hàng. 6. Việc bồi thường thiệt hại hàng hóa ký gửi thực hiện theo quy định của pháp \nluật về dân sự và quy định khác của pháp luật có liên quan, trừ trường hợp quy \nđịnh tại khoản 7 Điều này. 7. Đơn vị kinh doanh vận tải được miễn bồi thường thiệt hại hàng hoá ký gửi \ntrong các trường hợp sau đây: \na) Do đặc tính tự nhiên hoặc khuyết tật vốn có của hàng hoá ký gửi hoặc hao \nhụt ở mức cho phép; b) Do việc bắt giữ hoặc cưỡng chế của cơ quan nhà nước có thẩm quyền đối \nvới hàng hoá ký gửi; c) Do nguyên nhân bất khả kháng;",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 1999,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p59_struct_002",
+        "page": 59,
+        "score": 0.8328,
+        "is_hit": false,
+        "text": "Điều 68. Hàng hoá ký gửi \n1. Hàng hoá ký gửi là hàng hoá gửi theo xe ô tô kinh doanh vận tải hành khách \nmà người gửi không đi cùng trên xe, được thực hiện theo thỏa thuận giữa người \nkinh doanh vận tải và người gửi hàng. \n2. Chỉ được nhận vận tải hàng hóa có kích thước, trọng lượng phù hợp với \nphương tiện và không thuộc hàng hóa cấm lưu thông , hàng hóa nguy hiểm, động \nvật hoang dã, hàng có mùi hôi thối, động vật, hàng hóa khác có ảnh hưởng đến sức \nkhỏe của hành khách, môi trường. \n3. Người có hàng hoá ký gửi phải lập tờ khai gửi hàng hoá, trong đó kê khai \ntên, số lượng, khối lượng hàng hoá ; tên, địa chỉ, số định danh cá nhân của người \ngửi và người nhận hàng hóa.",
+        "metadata": {
+          "chapter": "Chương Iv",
+          "is_empty": false,
+          "char_count": 2079,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p5_struct_002",
+        "page": 5,
+        "score": 0.7894,
+        "is_hit": false,
+        "text": "Lập điểm đón, trả khách, bốc dỡ hàng hóa trái quy định của pháp luật.",
+        "metadata": {
+          "chapter": "Chương Ii",
+          "is_empty": false,
+          "char_count": 2000,
+          "chunk_index": 2,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Thời điểm chính thức có hiệu lực thi hành của Luật Đường bộ số 35/2024/QH15 là khi nào?",
+    "expected_answer": "Ngày 01 tháng 01 năm 2025 (trừ trường hợp quy định tại khoản 2 Điều 85).",
+    "gold_page": 69,
+    "evidence_quote": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 Điều này.",
+    "filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hit_ranks": [
+      3
+    ],
+    "top_hits": [
+      {
+        "rank": 1,
+        "chunk_id": "luat_duong_bo_2024_p1_struct_000",
+        "page": 1,
+        "score": 0.8661,
+        "is_hit": false,
+        "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+        "metadata": {
+          "chapter": "Chương I",
+          "is_empty": false,
+          "char_count": 1567,
+          "chunk_index": 0,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "chunk_id": "luat_duong_bo_2024_p67_struct_003",
+        "page": 67,
+        "score": 0.8455,
+        "is_hit": false,
+        "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+        "metadata": {
+          "chapter": "Chương Vi",
+          "is_empty": false,
+          "char_count": 1933,
+          "chunk_index": 3,
+          "chunk_strategy": "by_paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "chunk_id": "luat_duong_bo_2024_p69_struct_001",
+        "page": 69,
+        "score": 0.8403,
+        "is_hit": true,
+        "text": "Điều 85. Hiệu lực thi hành \n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp \nquy định tại khoản 2 Điều này. \n2. Điểm a và điểm b khoản 2 Điều 42, Điều 43, Điều 50, khoản 1 Điều 84 của \nLuật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2024. \n3. Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số \nđiều theo Luật số 35/2018/QH14 và Luật số 44/2019/QH14 hết hiệu lực kể từ ngày \nLuật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 86 của Luật này.",
+        "metadata": {
+          "chapter": "Chương Vi",
+          "is_empty": false,
+          "char_count": 1906,
+          "chunk_index": 1,
+          "chunk_strategy": "by_paragraph"
+        }
+      }
+    ]
+  }
+]
